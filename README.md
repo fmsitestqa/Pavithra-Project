@@ -1,3 +1,3 @@
 # Pavithra-Project
 
-my project
+pavithra project
